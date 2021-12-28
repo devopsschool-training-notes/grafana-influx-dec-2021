@@ -24,3 +24,14 @@ EZiYDeEFN)rIXpHmBmW9.JanpvBx2wdV
 Thomas
 3.110.142.111
 3ijqZV?K-*CWDtolko@aYB;5j@(!G%N%
+
+Ragh
+65.2.130.251
+kMqbxrfX)oKHqN$&yIOU&Mv5JtnD&vnz
+
+
+Install Influxdb
+https://portal.influxdata.com/downloads/
+https://docs.influxdata.com/influxdb/v2.0/install/
+
+8086
